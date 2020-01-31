@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: This is the concept of loading the page on the clients side so that you dont have to re-load the entire site every time you want to go somewhere. 
 
 ## Project Set Up
 
